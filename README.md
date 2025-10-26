@@ -1,1 +1,3 @@
-# Solitaire-assembly
+# Tetris-assembly
+
+Tetris project using assembly language.
